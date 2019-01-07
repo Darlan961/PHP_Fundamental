@@ -6,5 +6,14 @@
     </head>
 
     <body>
+     <?php 
+           
+
+
+             $vet[] = "macacheira"; 
+
+             echo $vet[0];
+          
+?>
     </body>
 </html>

@@ -5,6 +5,15 @@
         <title>Curso PHP FUNDAMENTAL</title>
     </head>
 
-    <body>
+    <body> 
+     <?php 
+      echo " I love PHP " . "<br>" ;
+    $_var = 100;
+      echo 2+2+ $_var  ;
+        
+
+      ?>
+
+
     </body>
 </html>
