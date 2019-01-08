@@ -16,5 +16,5 @@
             
             <input type="submit" value="Enviar Cadastro">
         </form>
-    </body>
+    </body> 
 </html>
